@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @thejoe01
-- 👀 I’m interested in Deep Learning, Big Data, Computer Vision etc.
-- 🌱 I’m currently learning GANs
+- 👀 I’m interested in Deep Learning, Big Data, Computer Vision, NLP etc.
+- 🌱 I’m currently learning NLP
 - 📫 Check out my [LinkedIn](https://www.linkedin.com/in/giuseppe-giametta/) profile!
 
 <!---
